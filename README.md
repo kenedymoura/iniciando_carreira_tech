@@ -1,7 +1,6 @@
 # iniciando_carreira_tech
 guia de estudos tech p/iniciante
-# 📚 Plano de Cursos Gratuitos para Iniciantes em Tecnologia
-
+# Guia de cursos Gratuitos para Iniciantes na área tech
 ## Linguagens e Ferramentas
 
 | Área / Linguagem | Curso / Plataforma | Duração | Certificado | Link |
